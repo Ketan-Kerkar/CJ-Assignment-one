@@ -1,0 +1,8 @@
+.RT {
+    background-color: #1047b4;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: left;
+    background-image: linear-gradient(to right, rgb(163, 68, 167), rgb(70, 27, 189));
+}
